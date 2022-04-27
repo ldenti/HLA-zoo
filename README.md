@@ -12,7 +12,7 @@ These are ALT sequences of HLA genes from GRCh38, collected in the Human Genome 
 
 ```txt
 gene            alts  size
-A-3105          11    147718
+A-3105          9     ?
 B-3106          9     30751
 C-3107          10    33810
 DMA-3108        11    49624
